@@ -1,0 +1,160 @@
+lat,lon,datetime,year,pope,origin,region,name_original,name_baptismal
+36.45,37.16,1628-01-01T00:00:00Z,1628,Urban VIII,Aleppo,Levant,Amor,Ioannes VITELLESCHI
+36.2,37.41,1654-01-01T00:00:00Z,1654,Innocent X,Aleppo,Levant,Ahmet,Ioannes DURANTES
+35.95,37.16,1694-01-01T00:00:00Z,1694,,Aleppo,Levant,"Vehram,* fil. Meemet",Stephanus BUTI
+36.2,36.91,1698-01-01T00:00:00Z,1698,,Aleppo,Levant,"Nasli, fil. Hibraim (nunc Elia Sciai)",Magdalena SCIAI
+37.0,3.04,1624-01-01T00:00:00Z,1624,Urban VIII,Algiers,North Africa,"Mamet, fil. Beneis (Reniis)",Petrus BONFILIUS
+36.98776412907379,3.1172542485937367,1624-01-01T00:00:00Z,1624,Urban VIII,Algiers,North Africa,"Iussuf, fil. Mustafa",Franciscus (DE CURTIS)
+36.95225424859374,3.1869463130731184,1627-01-01T00:00:00Z,1627,Urban VIII,Algiers,North Africa,Iussuf ,Michelangelo (ANDROSILLA)
+36.896946313073116,3.2422542485937367,1635-01-01T00:00:00Z,1635,Urban VIII,Algiers,North Africa,Ali Bainol,Franciscus Maria BAINOL
+36.82725424859374,3.2777641290737884,1627-01-01T00:00:00Z,1627,Urban VIII,Algiers,North Africa,"Media, fil. Ali",Ioannes Augustinus DE LAURENTIIS
+36.75,3.29,1638-01-01T00:00:00Z,1638,Urban VIII,Algiers,North Africa,Ebraim,Ioannes PALLOTTA
+36.67274575140626,3.2777641290737884,1640-01-01T00:00:00Z,1640,Urban VIII,Algiers,North Africa,"Briam, fil. Amet",Petrus Maria ALDOBRANDINUS
+36.603053686926884,3.2422542485937367,1647-01-01T00:00:00Z,1647,Innocent X,Algiers,North Africa,"Salem,* fil. q. Amet, ethiops",Franciscus IMPERIALIS
+36.54774575140626,3.1869463130731184,1648-01-01T00:00:00Z,1648,Innocent X,Algiers,North Africa,"Ahmet,* fil. q. Ibraim",Carolus CARDUCIUS
+36.51223587092621,3.117254248593737,1648-01-01T00:00:00Z,1648,Innocent X,Algiers,North Africa,"Assan, fil. q. Ali",Hippolitus ROCCUS
+36.5,3.04,1651-01-01T00:00:00Z,1651,Innocent X,Algiers,North Africa,"Chasem, fil. Ali",Ioseph WELTI
+36.51223587092621,2.9627457514062634,1658-01-01T00:00:00Z,1658,Alexander VII,Algiers,North Africa,"Amet, fil. Habdaraman et Fatima, maurus",Ioannes FORTUNATUS
+36.54774575140626,2.8930536869268817,1662-01-01T00:00:00Z,1662,Alexander VII,Algiers,North Africa,"Ali,* fil. q. Say",Antonius AMADIO
+36.603053686926884,2.8377457514062634,1666-01-01T00:00:00Z,1666,Alexander VII,Algiers,North Africa,"Amet, fil. q. Ayssi",Ioseph PELLONIUS
+36.67274575140626,2.8022358709262116,1675-01-01T00:00:00Z,1675,Clement X,Algiers,North Africa,"Musa, fil. Aggi Meemeth",Petrus Egidius NABONA
+36.75,2.79,1680-01-01T00:00:00Z,1680,Innocent XI,Algiers,North Africa,"Mustafa, fil. Assan",Petru DE BERNARDO
+36.82725424859374,2.8022358709262116,1684-01-01T00:00:00Z,1684,Innocent XI,Algiers,North Africa,"Zianus, fil. q. Habdula, maurus",Nicolaus DE ROSSI
+36.896946313073116,2.837745751406263,1687-01-01T00:00:00Z,1687,Innocent XI,Algiers,North Africa,"Ahmeth, fil. q. Tabbi",Georgius DE BELLIS
+36.95225424859374,2.8930536869268817,1695-01-01T00:00:00Z,1695,,Algiers,North Africa,"Amet, fil. q. Amet",Ioseph PARAVICINI
+36.98776412907379,2.962745751406263,1695-01-01T00:00:00Z,1695,,Algiers,North Africa,"Ali, fil. Assan ",Michael Angelus TASSIS
+44.15,17.6,1637-01-01T00:00:00Z,1637,Urban VIII,Bosnia,Balkans,Assan,Gaspar MAURITIUS
+44.134923155196475,17.68550503583142,1660-01-01T00:00:00Z,1660,Alexander VII,Bosnia,Balkans,"Fatima, fil. Cucupae",Agnes Innocentia DE NATALI
+44.09151111077974,17.760696902421635,1662-01-01T00:00:00Z,1662,Alexander VII,Bosnia,Balkans,"Ali, fil. q. Amet",Marcus Franciscus RANUCCI
+44.025,17.81650635094611,1678-01-01T00:00:00Z,1678,Innocent XI,Bosnia,Balkans,"Assan, fil. Ali",Franciscua FIDELE
+43.94341204441673,17.846201938253053,1678-01-01T00:00:00Z,1678,Innocent XI,Bosnia,Balkans,"Sciaba,* fil. Meemet",Petrus Paulus PACIFICUS
+43.856587955583265,17.846201938253053,1678-01-01T00:00:00Z,1678,Innocent XI,Bosnia,Balkans,"Meemet, fil. q. Musa",Dominicus PERSI
+43.775,17.81650635094611,1688-01-01T00:00:00Z,1688,Innocent XI,Bosnia,Balkans,"Mehemet, fil. Amet",Petrus Paulus DE CLOSERDA
+43.708488889220256,17.760696902421635,1695-01-01T00:00:00Z,1695,,Bosnia,Balkans,"Ussain, fil. Eiuppi Hoggia",Nicolaus SPINELLUS
+43.66507684480352,17.68550503583142,1696-01-01T00:00:00Z,1696,,Bosnia,Balkans,"Sefer, fil. Aracep Vindongia (?)",Philippus Ioannes GALLI
+43.65,17.6,1696-01-01T00:00:00Z,1696,,Bosnia,Balkans,"Murat, fil. Sali",Nicolaus ALBERINI
+43.66507684480352,17.514494964168584,1697-01-01T00:00:00Z,1697,,Bosnia,Balkans,"Sabba, fil. q. Ali",Ioseph Angelus RUSCONI
+43.708488889220256,17.439303097578367,1697-01-01T00:00:00Z,1697,,Bosnia,Balkans,"Mehemet, fil. Islan",Eugenius AUGUSTINUS
+43.775,17.383493649053893,1697-01-01T00:00:00Z,1697,,Bosnia,Balkans,"Assan, fil. Aracep",Bernardinus BENZA
+43.856587955583265,17.35379806174695,1698-01-01T00:00:00Z,1698,,Bosnia,Balkans,"Meemet, fil. q. Selim",Antonius Franciscus ALVAREZ
+43.94341204441673,17.35379806174695,1698-01-01T00:00:00Z,1698,,Bosnia,Balkans,"Zapphira, fil. Ussain",Maria Antonia ALTAMIRA
+44.025,17.383493649053893,1699-01-01T00:00:00Z,1699,,Bosnia,Balkans,"Amet, fil. Aracep",Ioseph BUGHETTI
+44.09151111077974,17.439303097578367,1699-01-01T00:00:00Z,1699,,Bosnia,Balkans,"Saha, fil. Mugharem",Paula MARIANELLI
+44.134923155196475,17.514494964168584,1699-01-01T00:00:00Z,1699,,Bosnia,Balkans,"Sultana, fil. q. Haggi Meemed",Teresia CESARINI
+30.29,31.23,1636-01-01T00:00:00Z,1636,Urban VIII,Cairo,North Africa,Ali,Petrus RAGGIUS
+29.915,31.44650635094611,1644-01-01T00:00:00Z,1644,Urban VIII,Cairo,North Africa,"Ebrahim, fil. q. Amet, ethiops",Michael Antelus MUTUS
+29.915,31.013493649053892,1665-01-01T00:00:00Z,1665,Alexander VII,Cairo,North Africa,"Meemeth, fil. Ali, maurus",Antonius DE NICOLAO
+33.76,36.28,1625-01-01T00:00:00Z,1625,Urban VIII,Damascus,Levant,"Ali, fil. Mehmet et Asse",Ioannes (DELLA PORTA)
+41.26,28.97,1600-01-01T00:00:00Z,1600,,Istanbul,Ottoman Core,"....., fil. Ibrimbassiae et Annae della Gerghitia, renegatae",Angelus (PALLASETA)
+41.25786121534345,29.00263154805501,1600-01-01T00:00:00Z,1600,,Istanbul,Ottoman Core,Isaias,Dominicus (CANDERENI)
+41.251481456572265,29.03470476127563,1617-01-01T00:00:00Z,1617,Paul V,Istanbul,Ottoman Core,Mustafa fil. q. Jseyi,Ioseph DE AMATIS
+41.24096988312782,29.06567085809127,1618-01-01T00:00:00Z,1618,Paul V,Istanbul,Ottoman Core,Mustafa fil. q. Ali,Iacobus (CLAVARIUS)
+41.22650635094611,29.095,1618-01-01T00:00:00Z,1618,Paul V,Istanbul,Ottoman Core,"Bairam, fil. q. Usman (Asan)",Ioannes BOSIO
+41.20833833507281,29.12219035725218,1619-01-01T00:00:00Z,1619,Paul V,Istanbul,Ottoman Core,Gisuffu,Ioseph (VITELESCIUS)
+41.186776695296636,29.146776695296637,1621-01-01T00:00:00Z,1621,Paul V,Istanbul,Ottoman Core,Assan,Fabianus (PICTUS)
+41.16219035725218,29.168338335072807,1621-01-01T00:00:00Z,1621,Paul V,Istanbul,Ottoman Core,Ahmet Chedir,Andreas (CACACE)
+41.135,29.186506350946107,1622-01-01T00:00:00Z,1622,Gregory XV,Istanbul,Ottoman Core,Isuf,Matthias (BAVIERA)
+41.10567085809127,29.200969883127822,1623-01-01T00:00:00Z,1623,Gregory XV,Istanbul,Ottoman Core,"Mehmet, fil. Assan",Petrus GAVINUS
+41.074704761275626,29.211481456572265,1625-01-01T00:00:00Z,1625,Urban VIII,Istanbul,Ottoman Core,"Saino, fil. Regeb",Ioseph (PUCCINELLI)
+41.04263154805501,29.21786121534345,1626-01-01T00:00:00Z,1626,Urban VIII,Istanbul,Ottoman Core,"Mehmet, fil. Regeb, moro janicarius",Franciscus SERRA
+41.01,29.22,1626-01-01T00:00:00Z,1626,Urban VIII,Istanbul,Ottoman Core,Iesuf,Philippus Maria Renatus
+40.97736845194498,29.21786121534345,1627-01-01T00:00:00Z,1627,Urban VIII,Istanbul,Ottoman Core,"Assan, fil. Usman et Asiae",Ioannes BLANCUS (BRANCO)
+40.94529523872437,29.211481456572265,1628-01-01T00:00:00Z,1628,Urban VIII,Istanbul,Ottoman Core,"Acmet, fil. Ali",Franciscus (MATTHEUS)
+40.91432914190872,29.200969883127822,1630-01-01T00:00:00Z,1630,Urban VIII,Istanbul,Ottoman Core,Mamut,Ioannes
+40.885,29.186506350946107,1630-01-01T00:00:00Z,1630,Urban VIII,Istanbul,Ottoman Core,Amet,Valentinus (PACULUS)
+40.85780964274782,29.168338335072807,1630-01-01T00:00:00Z,1630,Urban VIII,Istanbul,Ottoman Core,Amet,Martinus (BRACCIOLINUS)
+40.83322330470336,29.146776695296637,1632-01-01T00:00:00Z,1632,Urban VIII,Istanbul,Ottoman Core,Ali,Patricius FACTORIUS
+40.811661664927186,29.12219035725218,1635-01-01T00:00:00Z,1635,Urban VIII,Istanbul,Ottoman Core,Mustafa Giafer,Petrus SERRA
+40.793493649053886,29.095,1638-01-01T00:00:00Z,1638,Urban VIII,Istanbul,Ottoman Core,.....,Maria Lucia DONGA
+40.77903011687218,29.06567085809127,1639-01-01T00:00:00Z,1639,Urban VIII,Istanbul,Ottoman Core,Amet,Iacobus DEL PESO
+40.76851854342773,29.03470476127563,1639-01-01T00:00:00Z,1639,Urban VIII,Istanbul,Ottoman Core,Mehmet,Urbanus BARBERINUS
+40.76213878465654,29.00263154805501,1640-01-01T00:00:00Z,1640,Urban VIII,Istanbul,Ottoman Core,"Ali, fil. Mamet",Philippus Constantinus
+40.76,28.97,1648-01-01T00:00:00Z,1648,Innocent X,Istanbul,Ottoman Core,"Homer, fil. q. Bairam",Ioseph LIETUS
+40.76213878465654,28.937368451944987,1649-01-01T00:00:00Z,1649,Innocent X,Istanbul,Ottoman Core,Amet*,Iacobus DE MASSIMIS
+40.76851854342773,28.905295238724367,1649-01-01T00:00:00Z,1649,Innocent X,Istanbul,Ottoman Core,Mustapha,Ioannes Aloysius VALENTE
+40.77903011687218,28.874329141908728,1654-01-01T00:00:00Z,1654,Innocent X,Istanbul,Ottoman Core,"Amulio, fil. Mustafa",Carolus OTTONUS
+40.793493649053886,28.845,1654-01-01T00:00:00Z,1654,Innocent X,Istanbul,Ottoman Core,"Osman, fil. Mustafa",Franciscus Angelus RAPPACIOLI
+40.811661664927186,28.817809642747818,1655-01-01T00:00:00Z,1655,Innocent X,Istanbul,Ottoman Core,"Ali, fil. Maahmeth",Stephanus FORTUNATUS
+40.83322330470336,28.79322330470336,1655-01-01T00:00:00Z,1655,Innocent X,Istanbul,Ottoman Core,"Saim, fil. Maameth",Ioannnes GORI
+40.85780964274782,28.77166166492719,1658-01-01T00:00:00Z,1658,Alexander VII,Istanbul,Ottoman Core,Peri fil. q. Hibraim,Franciscus CENCI
+40.885,28.75349364905389,1659-01-01T00:00:00Z,1659,Alexander VII,Istanbul,Ottoman Core,"Sciain, fil. Memet",Antionio FORTUNATI
+40.91432914190872,28.739030116872176,1660-01-01T00:00:00Z,1660,Alexander VII,Istanbul,Ottoman Core,"Velli, fil. Bechir",Hieronymus COCCHIERI
+40.94529523872437,28.728518543427732,1664-01-01T00:00:00Z,1664,Alexander VII,Istanbul,Ottoman Core,Amet,Ioseph MONTANUS
+40.97736845194498,28.722138784656547,1666-01-01T00:00:00Z,1666,Alexander VII,Istanbul,Ottoman Core,"Ali, fil. q. Amet",Ioseph MAGGI
+41.01,28.72,1668-01-01T00:00:00Z,1668,Clement IX,Istanbul,Ottoman Core,"Osman,* fil. q. Mustafa",Andreas SAN MARCO
+41.04263154805501,28.722138784656547,1670-01-01T00:00:00Z,1670,Clement X,Istanbul,Ottoman Core,"Iusuph, fil. Mustapha",Ioannes CALCANEUS
+41.074704761275626,28.728518543427732,1671-01-01T00:00:00Z,1671,Clement X,Istanbul,Ottoman Core,"Ameth,* fil. Assan",Nicolaus PARISANUS
+41.10567085809127,28.739030116872176,1672-01-01T00:00:00Z,1672,Clement X,Istanbul,Ottoman Core,"Hibraim, fil. Joie",Ioseph GUIOTTI
+41.135,28.75349364905389,1677-01-01T00:00:00Z,1677,Innocent XI,Istanbul,Ottoman Core,"Ali, fil. Aracep",Ioseph DE SANCTIS
+41.16219035725218,28.77166166492719,1669-01-01T00:00:00Z,1669,Clement IX,Istanbul,Ottoman Core,Salimanus,Dominicus SIMONCINI
+41.186776695296636,28.79322330470336,1682-01-01T00:00:00Z,1682,Innocent XI,Istanbul,Ottoman Core,"Amet, fil. q. Aracep",Antonius DE ANDREA
+41.20833833507281,28.817809642747818,1685-01-01T00:00:00Z,1685,Innocent XI,Istanbul,Ottoman Core,"Mustafa, fil. q. Mehemet",Franciscus COSTANTE
+41.22650635094611,28.845,1687-01-01T00:00:00Z,1687,Innocent XI,Istanbul,Ottoman Core,"Abdalla,* fil. q. Mustafa",Petrus PACIFICUS
+41.24096988312782,28.874329141908728,1688-01-01T00:00:00Z,1688,Innocent XI,Istanbul,Ottoman Core,"Soliman, fil. q. Assan",Ioseph FRANCAVILLA
+41.251481456572265,28.905295238724367,1690-01-01T00:00:00Z,1690,Alexander VIII,Istanbul,Ottoman Core,"Mustafa, fil. q. Hibraim",Petrus Alexander IULIANI
+41.25786121534345,28.937368451944987,1691-01-01T00:00:00Z,1691,Alexander VIII,Istanbul,Ottoman Core,"Ali,* fil. q. Iusuf",Ioseph TARSI
+38.67,27.14,1614-01-01T00:00:00Z,1614,Paul V,Izmir,Anatolia,Mostafa,Paulus (BORGIA)
+38.6303133832078,27.2751602043639,1623-01-01T00:00:00Z,1623,Gregory XV,Izmir,Anatolia,Mehmed,Ioannes (BIOTTO)
+38.52385375325047,27.36740799883863,1648-01-01T00:00:00Z,1648,Innocent X,Izmir,Anatolia,"Mehemet, fil. q. Ali",Ioannes Antonius  BRANCIFORTE
+38.38442129043168,27.387455360470234,1652-01-01T00:00:00Z,1652,Innocent X,Izmir,Anatolia,Mustapha*,Zacharias CRIBELLUS
+38.25628481651368,27.328937393588564,1667-01-01T00:00:00Z,1667,Alexander VII,Izmir,Anatolia,"Amet, fil. q. Ali",Petrus BORGATI
+38.18012675659638,27.21043313921036,1670-01-01T00:00:00Z,1670,Clement X,Izmir,Anatolia,"Hibraim, fil. Amet",Hieronimus DE IOANNE
+38.18012675659638,27.069566860789642,1680-01-01T00:00:00Z,1680,Innocent XI,Izmir,Anatolia,"Ahmet, fil. q. Ali",Sebastianus Gianettinus DE TURRIS
+38.25628481651368,26.951062606411437,1681-01-01T00:00:00Z,1681,Innocent XI,Izmir,Anatolia,"Mustafa, fil. q. Hibraim",Petrus Paulus ARONIUS
+38.38442129043168,26.892544639529767,1681-01-01T00:00:00Z,1681,Innocent XI,Izmir,Anatolia,"Ali, fil. Ussain",Antonius Ioseph PORTA
+38.52385375325047,26.91259200116137,1689-01-01T00:00:00Z,1689,Innocent XI,Izmir,Anatolia,"Aracep, fil. q. Ali",Petrus DIAS
+38.6303133832078,27.0048397956361,1699-01-01T00:00:00Z,1699,,Izmir,Anatolia,"Mustafa, fil. Meemet",Ioannes ERULI
+43.59,17.81,1620-01-01T00:00:00Z,1620,Paul V,Mostar,Balkans,Risuan fil. Ossain,Ioannes B. (MAGLIANUS)
+43.556506350946115,17.935,1659-01-01T00:00:00Z,1659,Alexander VII,Mostar,Balkans,"Mucahar,* fil. Osman Vellishii",Ioannes VICI
+43.465,18.026506350946107,1661-01-01T00:00:00Z,1661,Alexander VII,Mostar,Balkans,"Haissa, vid. q. Velli",Angela BRANDITIA
+43.34,18.06,1664-01-01T00:00:00Z,1664,Alexander VII,Mostar,Balkans,"Fatima, fil. q. Ali",Marta Catherina DE HILIRIO
+43.215,18.026506350946107,1665-01-01T00:00:00Z,1665,Alexander VII,Mostar,Balkans,"Assan, fil. q. Bali",Ioannes CORRADUS
+43.12349364905389,17.935,1670-01-01T00:00:00Z,1670,Clement X,Mostar,Balkans,"Fatima, fil. Amorat",Maria Anna PALLAVICINA
+43.09,17.81,1671-01-01T00:00:00Z,1671,Clement X,Mostar,Balkans,"Fatima,* fil. Solis",Anna Maria EUFRASIA
+43.12349364905389,17.685,1671-01-01T00:00:00Z,1671,Clement X,Mostar,Balkans,"Hibraim, fil. Memet",Antonius DE LAURENTIO
+43.215,17.59349364905389,1672-01-01T00:00:00Z,1672,Clement X,Mostar,Balkans,"Assan,* fil. Hibraim",Ioannes BONCORE
+43.34,17.56,1672-01-01T00:00:00Z,1672,Clement X,Mostar,Balkans,"Sciain, fil. Iussuf Bassa",Ioannes Franciscus URSINUS
+43.465,17.59349364905389,1674-01-01T00:00:00Z,1674,Clement X,Mostar,Balkans,"Osman,* fil. Gazi",Nicolaus DE URSO
+43.556506350946115,17.685,1685-01-01T00:00:00Z,1685,Innocent XI,Mostar,Balkans,"Ahmet, fil. q. Mustafa",Nicolaus DATI
+36.69,28.22,1620-01-01T00:00:00Z,1620,Paul V,Rhodes,Aegean,Amat ,Ioseph URSINUS
+36.59587245046468,28.415457870617008,1622-01-01T00:00:00Z,1622,Gregory XV,Rhodes,Aegean,Osman,Nuntius
+36.38436976651092,28.463731978045455,1660-01-01T00:00:00Z,1660,Alexander VII,Rhodes,Aegean,"Chausus, fil. Primogirii",Carolus DE ARCHANGELIS
+36.214757783024396,28.32847093477939,1663-01-01T00:00:00Z,1663,Alexander VII,Rhodes,Aegean,"Hosman, fil. q. Ossan",Carolus STAE MARIAE
+36.214757783024396,28.11152906522061,1672-01-01T00:00:00Z,1672,Clement X,Rhodes,Aegean,"Amet, fil. Assan",Ioseph DABIZI
+36.38436976651092,27.976268021954542,1675-01-01T00:00:00Z,1675,Clement X,Rhodes,Aegean,"Ali, fil. Meemet",Ioseph Antonius SABATINUS
+36.59587245046468,28.02454212938299,1691-01-01T00:00:00Z,1691,Alexander VIII,Rhodes,Aegean,"Ali, fil. q. Barcha, maurus",Antonius BONOTTI
+33.14,13.19,1619-01-01T00:00:00Z,1619,Paul V,Tripoli,North Africa,"Ameth, fil. Buseth",Bartholomeus (BUTIUS)
+33.10650635094611,13.315,1635-01-01T00:00:00Z,1635,Urban VIII,Tripoli,North Africa,Ali,Petrus MACHIAVELLUS
+33.015,13.40650635094611,1638-01-01T00:00:00Z,1638,Urban VIII,Tripoli,North Africa,Colli,Laurentius ALBANUS
+32.89,13.44,1652-01-01T00:00:00Z,1652,Innocent X,Tripoli,North Africa,"Mameth, fil. Hali",Fortunatus CHICCIUS
+32.765,13.40650635094611,1662-01-01T00:00:00Z,1662,Alexander VII,Tripoli,North Africa,"Mustafa, maurus",Ioseph NASALI
+32.67349364905389,13.315,1666-01-01T00:00:00Z,1666,Alexander VII,Tripoli,North Africa,"Amet, fil. Salim",Ioseph DE ROSSI
+32.64,13.19,1672-01-01T00:00:00Z,1672,Clement X,Tripoli,North Africa,"Ali, fil. Bertaghair, maurus",Paulus Maria BONAFEDE
+32.67349364905389,13.065,1683-01-01T00:00:00Z,1683,Innocent XI,Tripoli,North Africa,"Amet, fil. q. Ali, maurus",Ioachim DE BENEDICTIS
+32.765,12.97349364905389,1686-01-01T00:00:00Z,1686,Innocent XI,Tripoli,North Africa,"Maurucha, vid. Barcha maura",Maria SERAFINI
+32.89,12.94,1689-01-01T00:00:00Z,1689,Innocent XI,Tripoli,North Africa,"Amet, fil. q. Ali",Ioannes DE TORRI
+33.015,12.97349364905389,1696-01-01T00:00:00Z,1696,,Tripoli,North Africa,"Ali, fil. q. Abdul",Philippus Ioannes Bernardus FUSTOMBERG
+33.10650635094611,13.065,1699-01-01T00:00:00Z,1699,,Tripoli,North Africa,"Nostrhalla,* fil. Scahep Ehraidi (?)",Franciscus HEREDI
+37.05,10.18,1627-01-01T00:00:00Z,1627,Urban VIII,Tunis,North Africa,"Maomet, fil. Ali et Areciae",Franciscus (VANNINI)
+37.04072932183695,10.247449192789256,1634-01-01T00:00:00Z,1634,Urban VIII,Tunis,North Africa,"Ali, maurus",Ioannes B. DE SIRII
+37.01360485113662,10.309895987508858,1635-01-01T00:00:00Z,1635,Urban VIII,Tunis,North Africa,"Ahmet, maurus",Ioannes CARIGLIA
+36.97063828580466,10.36270899106953,1637-01-01T00:00:00Z,1637,Urban VIII,Tunis,North Africa,Amet,Ioannes Aloisius MONTERA
+36.91501625943278,10.401971304600593,1637-01-01T00:00:00Z,1637,Urban VIII,Tunis,North Africa,"Madruga, nigra",Maria
+36.850864003263155,10.42477102192058,1639-01-01T00:00:00Z,1639,Urban VIII,Tunis,North Africa,"Scirif, fil. Mensar",Franciscus Aloysius
+36.78293939665883,10.429417192297635,1648-01-01T00:00:00Z,1648,Innocent X,Tunis,North Africa,"Ali, fil. q. Mehemet",Petrus Alphonsus CARAFFA
+36.71628009695725,10.415565230529705,1648-01-01T00:00:00Z,1648,Innocent X,Tunis,North Africa,"Ali, fil. q. Abdula",Franciscus Andreas TICCIONUS
+36.65582991947128,10.38424247325261,1649-01-01T00:00:00Z,1649,Innocent X,Tunis,North Africa,"Ali,* fil. q. Amet",Franciscus Antonius MANENS
+36.606072177323895,10.337771986081513,1658-01-01T00:00:00Z,1658,Alexander VII,Tunis,North Africa,"Mustapha, fil. Badi et Belsami",Augustinus GHICI (CHIGI)
+36.57069717462363,10.27960027246156,1659-01-01T00:00:00Z,1659,Alexander VII,Tunis,North Africa,... maurus,Ioannes
+36.55232851349091,10.214041662274061,1659-01-01T00:00:00Z,1659,Alexander VII,Tunis,North Africa,"Ali, fil. Abdalla, maurus",Ioannes DE DIONISIIS
+36.55232851349091,10.145958337725938,1660-01-01T00:00:00Z,1660,Alexander VII,Tunis,North Africa,"Araceps, fil. q. Mustafa",Ioseph CAPPONIUS
+36.57069717462363,10.08039972753844,1668-01-01T00:00:00Z,1668,Clement IX,Tunis,North Africa,"Amet, fil. q. Salme, maurus",Angelus ZUCCARIUS
+36.606072177323895,10.022228013918486,1673-01-01T00:00:00Z,1673,Clement X,Tunis,North Africa,"Carali, fil. Abdula",Franciscus Emilius PALUTIUS
+36.65582991947128,9.975757526747389,1674-01-01T00:00:00Z,1674,Clement X,Tunis,North Africa,"Ali, fil. Sciain, maurus",Ioseph Antonius LUDOVISIUS
+36.71628009695725,9.944434769470295,1680-01-01T00:00:00Z,1680,Innocent XI,Tunis,North Africa,"Amet, fil. q. Soliman",Michael ALBANO
+36.78293939665883,9.930582807702365,1683-01-01T00:00:00Z,1683,Innocent XI,Tunis,North Africa,"Iaia, fil. q. Soliman, maurus",Ioannes SALVI
+36.850864003263155,9.935228978079419,1687-01-01T00:00:00Z,1687,Innocent XI,Tunis,North Africa,"Mustafa, fil. q. Osman",Ioannes URBANI
+36.91501625943278,9.958028695399406,1693-01-01T00:00:00Z,1693,,Tunis,North Africa,"Amer, fil. q. Abadalla Sain",Ioannes Lucas ZINAGHI
+36.97063828580466,9.99729100893047,1694-01-01T00:00:00Z,1694,,Tunis,North Africa,"Ali, fil. q. Mustafa",Ioannes PATRITIUS
+37.01360485113662,10.050104012491142,1697-01-01T00:00:00Z,1697,,Tunis,North Africa,"Sali, fil. q. Ali",Antonius VAINI
+37.04072932183695,10.112550807210743,1697-01-01T00:00:00Z,1697,,Tunis,North Africa,"Amur, fil. q. Ali",Ioseph PEDROSA
